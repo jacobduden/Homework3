@@ -16,7 +16,7 @@
 
 ## Picture of the website.
 
-![password-generator]password_generator.png)
+![password-generator](password_generator.png)
 
 ## Links
 
