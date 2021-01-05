@@ -14,7 +14,12 @@
 
 * Password length is limited to 8 - 128 characters.
 
-# Picture of the website.
+## Picture of the website.
 
-![password-generator](Screenshot 2021-01-04 200307.png)
+![password-generator]password_generator.png)
 
+## Links
+
+[link to deployed website](https://jacobduden.github.io/Homework3/.)
+
+[Link to Github](https://github.com/jacobduden/Homework3)
